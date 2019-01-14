@@ -7,3 +7,4 @@ for line in file:
     if line[0] == '-':
         sum -= int(line[1:])
 print (sum)
+#test
